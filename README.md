@@ -24,6 +24,8 @@ Analysis of this data is helpful for coaches/team managers improving performance
 
  The trends over the years of the winning country
 
+ ![image](https://github.com/mgangla/Sport_Analytics/blob/main/images/winners.png)
+
 **** Technology Used****
 
 
