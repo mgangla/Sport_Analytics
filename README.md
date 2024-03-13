@@ -17,6 +17,22 @@ Analysis of this data is helpful for coaches/team managers improving performance
 
  The data used in this study can be found here :[data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv)
 
+
+ **Useful Insights**
+
+ How age influences the performance of winners
+
+ The trends over the years of the winning country
+
+**** Technology Used****
+
+
+
+ Pandas
+ Matplotlib
+ Seaborn
+ Colab Notebooks
+
 ![image](https://github.com/mgangla/Sport_Analytics/blob/main/images/stages_led_against_age.png?raw=true)
 
  
